@@ -1,0 +1,2 @@
+INSERT INTO `magnum-checklist`.inv_plan_types (id, title, created_at, updated_at) VALUES (2, 'Запланированная', '2022-02-10 04:18:53', '2022-02-10 04:18:53');
+INSERT INTO `magnum-checklist`.inv_plan_types (id, title, created_at, updated_at) VALUES (3, 'Не запланированная', '2022-02-10 04:19:00', '2022-02-10 04:19:00');

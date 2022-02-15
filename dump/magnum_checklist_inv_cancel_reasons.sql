@@ -1,0 +1,2 @@
+INSERT INTO `magnum-checklist`.inv_cancel_reasons (id, title, inv_method_id, created_at, updated_at) VALUES (2, 'Обнаружены незакрытые документы', 2, '2022-02-09 11:06:26', '2022-02-09 11:06:26');
+INSERT INTO `magnum-checklist`.inv_cancel_reasons (id, title, inv_method_id, created_at, updated_at) VALUES (3, 'Недостача ЛК не удержана', 4, '2022-02-09 11:06:58', '2022-02-09 11:06:58');

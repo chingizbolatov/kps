@@ -1,0 +1,2 @@
+INSERT INTO `magnum-checklist`.acc_systems (id, title, created_at, updated_at) VALUES (4, 'Спрут', '2022-02-09 09:13:30', '2022-02-09 09:13:30');
+INSERT INTO `magnum-checklist`.acc_systems (id, title, created_at, updated_at) VALUES (5, 'Голд', '2022-02-09 09:13:50', '2022-02-09 09:13:50');

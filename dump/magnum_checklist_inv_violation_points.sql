@@ -1,0 +1,2 @@
+INSERT INTO `magnum-checklist`.inv_violation_points (id, violation_id, inv_type_id, acc_system_id, value, created_at, updated_at) VALUES (1, 4, 2, 4, 12, '2022-02-10 11:18:47', '2022-02-10 11:18:47');
+INSERT INTO `magnum-checklist`.inv_violation_points (id, violation_id, inv_type_id, acc_system_id, value, created_at, updated_at) VALUES (2, 4, 2, 5, 12, '2022-02-10 11:18:47', '2022-02-10 11:18:47');

@@ -1,0 +1,3 @@
+INSERT INTO `magnum-checklist`.inv_statuses (id, title, created_at, updated_at) VALUES (2, 'Проведена', '2022-02-10 08:36:44', '2022-02-10 08:36:44');
+INSERT INTO `magnum-checklist`.inv_statuses (id, title, created_at, updated_at) VALUES (3, 'Отменена', '2022-02-10 08:36:48', '2022-02-10 08:36:48');
+INSERT INTO `magnum-checklist`.inv_statuses (id, title, created_at, updated_at) VALUES (4, 'В работе', '2022-02-10 10:07:18', '2022-02-10 10:07:18');

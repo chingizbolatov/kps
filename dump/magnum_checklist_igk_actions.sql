@@ -1,0 +1,2 @@
+INSERT INTO `magnum-checklist`.igk_actions (id, title, created_at, updated_at) VALUES (2, 'На счетной машинке', '2022-02-11 09:39:44', '2022-02-11 09:39:44');
+INSERT INTO `magnum-checklist`.igk_actions (id, title, created_at, updated_at) VALUES (4, 'Вручную', '2022-02-11 09:39:58', '2022-02-11 09:39:58');

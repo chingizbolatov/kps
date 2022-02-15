@@ -1,0 +1,1 @@
+INSERT INTO `magnum-checklist`.violations (id, title, created_at, updated_at) VALUES (4, 'Обнаружены незакрытые документы', '2022-02-10 11:18:47', '2022-02-10 11:18:47');

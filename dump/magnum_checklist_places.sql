@@ -1,0 +1,13 @@
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (2, 'Склад разбора АФ №1', '115', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (3, 'Торговый зал АФ №1', '4', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (4, 'Производство АФ №10', '402', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (5, 'Склад разбора АФ №10', '403', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (6, 'Торговый зал АФ №10', '401', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (7, 'Производство АФ №11', '442', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (8, 'Склад разбора АФ №11', '443', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (9, 'Склад разбора АФ №11', '443', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (10, 'Торговый зал АФ №11', '441', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (11, 'Производство АФ №12', '445', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (12, 'Склад разбора АФ №12', '446', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (13, 'Торговый зал АФ №12', '444', '2022-02-08 11:16:33', '2022-02-08 11:16:33');
+INSERT INTO `magnum-checklist`.places (id, title, code, created_at, updated_at) VALUES (14, 'Производство разрбора АФ №1', '91', '2022-02-10 08:49:53', '2022-02-10 08:49:53');

@@ -1,0 +1,17 @@
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (54, '2014_10_12_000000_create_users_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (55, '2014_10_12_100000_create_password_resets_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (56, '2019_08_19_000000_create_failed_jobs_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (57, '2019_12_14_000001_create_personal_access_tokens_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (58, '2022_02_07_143248_create_inventarizations_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (59, '2022_02_07_143723_create_inv_plan_types_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (60, '2022_02_07_143850_create_inv_sections_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (61, '2022_02_07_143915_create_calc_types_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (62, '2022_02_07_144033_create_violations_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (63, '2022_02_07_144053_create_inv_violations_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (64, '2022_02_07_144320_create_inv_cancel_reasons_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (65, '2022_02_07_144413_create_inv_methods_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (66, '2022_02_07_144425_create_inv_statuses_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (67, '2022_02_07_144438_create_acc_systems_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (68, '2022_02_08_044640_create_inv_violation_points_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (69, '2022_02_08_110547_create_places_table', 1);
+INSERT INTO `magnum-checklist`.migrations (id, migration, batch) VALUES (152, '2022_02_11_083956_create_igk_actions_table', 2);
